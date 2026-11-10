@@ -1,6 +1,6 @@
 # Laura Kowalsky
 **Information Design Student**
-
+> *Phone: 123-123-1234*
 ---
 
 | **Field** | **Details** |
